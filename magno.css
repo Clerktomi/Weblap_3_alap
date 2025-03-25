@@ -6,7 +6,13 @@
 
 h1
 {
+    font-size: 60px;
+    color: white;
     padding: 30px;
     text-transform: uppercase;
     text-shadow: 2px 2px 4px black;
+}
+
+.bold{
+    font-weight: bold;
 }
