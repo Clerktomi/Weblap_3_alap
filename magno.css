@@ -16,3 +16,35 @@ h1
 .bold{
     font-weight: bold;
 }
+
+h2{
+    margin-top: 30px;
+}
+
+.kep_ala{
+    text-align: center;
+    width: 10px;
+    font-weight: bold;
+    color: #444;
+    margin-top: 12px;
+}
+
+.jobboszlop{
+    background-color: #333;
+    color: white;
+}
+
+.keretes{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 6px solid white;
+}
+/* 
+.m2m{
+
+} */
+
+.bord{
+    border: 2px dotted black;
+    padding: 10px;
+}
